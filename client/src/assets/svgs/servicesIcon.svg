@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16.583" height="20.75" viewBox="0 0 16.583 20.75">
+  <g id="ic_invoice" transform="translate(1 1)">
+    <path id="Path_379" data-name="Path 379" d="M14,3V7.167a1.042,1.042,0,0,0,1.042,1.042h4.167" transform="translate(-4.625 -3)" fill="none" stroke="#feab5e" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="2"/>
+    <path id="Path_380" data-name="Path 380" d="M17.5,21.75H7.083A2.083,2.083,0,0,1,5,19.667V5.083A2.083,2.083,0,0,1,7.083,3h7.292l5.208,5.208V19.667A2.083,2.083,0,0,1,17.5,21.75Z" transform="translate(-5 -3)" fill="none" stroke="#feab5e" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="2"/>
+    <line id="Line_12" data-name="Line 12" x2="1.042" transform="translate(4.167 4.167)" fill="none" stroke="#feab5e" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="Line_13" data-name="Line 13" x2="6.25" transform="translate(4.167 10.417)" fill="none" stroke="#feab5e" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="Line_14" data-name="Line 14" x2="2.083" transform="translate(8.333 14.583)" fill="none" stroke="#feab5e" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

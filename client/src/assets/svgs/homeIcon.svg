@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21.414" height="21.707" viewBox="0 0 21.414 21.707">
+  <g id="Icons_Navigation_icon_12_states_" data-name="Icons / Navigation icon (12 states)" transform="translate(0.707 0.707)">
+    <g id="ic_home">
+      <path id="Path_373" data-name="Path 373" d="M5.222,13H3L13,3,23,13H20.778" transform="translate(-3 -3)" fill="none" stroke="#feab5e" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="2"/>
+      <path id="Path_374" data-name="Path 374" d="M5,12v7.778A2.222,2.222,0,0,0,7.222,22H18.333a2.222,2.222,0,0,0,2.222-2.222V12" transform="translate(-2.778 -2)" fill="none" stroke="#feab5e" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="2"/>
+      <path id="Path_375" data-name="Path 375" d="M9,21.889V15.222A2.222,2.222,0,0,1,11.222,13h2.222a2.222,2.222,0,0,1,2.222,2.222v6.667" transform="translate(-2.333 -1.889)" fill="none" stroke="#feab5e" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="2"/>
+    </g>
+  </g>
+</svg>
