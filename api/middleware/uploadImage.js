@@ -8,7 +8,7 @@ const createProfileUploadImage = (req, res, next) => {
   const storage = multer.diskStorage({
     destination: (req, file, cb) => {
       if (!existsSync("uploads/Users_imgs")) {
-        mkdirSync("uploads/Users_imgs");
+        mkdirSync("uploads/Users_imgs", { recursive: true });
       }
       cb(null, "uploads/Users_imgs");
     },
@@ -43,7 +43,7 @@ const updateProfileUploadImage = (req, res, next) => {
   const storage = multer.diskStorage({
     destination: (req, file, cb) => {
       if (!existsSync("uploads/Users_imgs")) {
-        mkdirSync("uploads/Users_imgs");
+        mkdirSync("uploads/Users_imgs", { recursive: true });
       }
       cb(null, "uploads/Users_imgs");
     },
@@ -78,7 +78,7 @@ const createServiceUpload = (req, res, next) => {
   const storage = multer.diskStorage({
     destination: (req, file, cb) => {
       if (!existsSync("uploads/UsersServices")) {
-        mkdirSync("uploads/UsersServices");
+        mkdirSync("uploads/UsersServices", { recursive: true });
       }
       cb(null, "uploads/UsersServices");
     },

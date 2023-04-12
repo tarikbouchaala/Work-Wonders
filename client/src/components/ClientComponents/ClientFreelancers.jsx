@@ -2,9 +2,6 @@ import { useState, useEffect } from "react";
 import noImage from "../../assets/Images/no-image.png"
 import ClientMenu from './ClientMenu'
 import Slider from '../Slider';
-import landscape1 from '../../assets/Images/landscape 1.jpg'
-import landscape2 from '../../assets/Images/landscape 2.jpg'
-import landscape3 from '../../assets/Images/landscape 3.jpg'
 import { HashLink } from 'react-router-hash-link';
 import { freelancersServices } from '../../Redux/ClientSlice';
 import { useSelector, useDispatch } from 'react-redux';

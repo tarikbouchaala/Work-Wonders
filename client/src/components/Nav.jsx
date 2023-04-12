@@ -1,6 +1,6 @@
 import { useSelector } from 'react-redux';
 import { HashLink } from 'react-router-hash-link';
-import { useRef, useEffect } from 'react';
+import { useRef } from 'react';
 import noImage from '../assets/Images/no-image.png';
 import { useNavigate } from 'react-router-dom';
 

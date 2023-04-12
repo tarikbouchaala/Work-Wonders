@@ -2,7 +2,7 @@
 
 ## 💻 Description
 
-The project is a freelance marketplace web application with separate dashboards for clients and freelancers, chat functionality, user profiles with avatar and information editing, and service management features such as creating, updating, and deleting services. Clients can view freelancer services and make orders, while freelancers can view their statistics and earnings, and manage their services.
+This platform is a website that connects freelancers and clients. It has a homepage with general information, and users can register as either a freelancer or a client. Freelancers can create, update, and delete services, view statistics, and receive testimonials from previous clients. Clients can view services offered by freelancers, request services, and view their order status and expenses. Both types of users have their own dashboard, profile, and chatroom to communicate with each other instantly.
 
 ## 🛠️ Technologies Used
 
@@ -26,24 +26,23 @@ Before you begin, ensure you have the following:
 
 ## 📦 Backend Packages
 
-- bcrypt
-- cors
-- dotenv
-- express
-- jsonwebtoken
-- mongoose
-- multer
-- nodemon
+- Bcrypt
+- Cors
+- Dotenv
+- Express
+- Jsonwebtoken
+- Mongoose
+- Multer
 
 ## 📦 Frontend Packages
 
-- axios
-- moment
-- react-icons
-- reduxjs/toolkit
-- react-router-dom
-- react-router-hash-link
-- react-spinners
-- react-toastify
-- socket.io-client
-- swiper
+- Axios
+- Moment
+- React Icons
+- Reduxjs/toolkit
+- React Router
+- React Router Hash Link
+- React Spinners
+- React Toastify
+- Socket.io Client
+- Swiper
