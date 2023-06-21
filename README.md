@@ -6,7 +6,7 @@ This platform is a website that connects freelancers and clients. It has a homep
 
 ## 🎥 Video Demo
 
-[![Work Wonders - Freelance Website App](https://github.com/tarikbouchaala/Work-Wonders/assets/112863517/b5c4b8d0-76cd-4d93-aa22-aaba302a132c)](https://www.youtube.com/watch?v=YRXQsYHNx9Y)
+[![Work Wonders - Freelance Website App](https://github.com/tarikbouchaala/Work-Wonders/raw/main/client/src/assets/Images/Miniature.png)](https://www.youtube.com/watch?v=YRXQsYHNx9Y)
 
 Click the image above to watch the video demo of Work Wonders and get a visual walkthrough of the app's features and functionalities.
 
