@@ -233,7 +233,7 @@ export default function ServiceDetails({ type }) {
                                                     </div>
                                                     <div className="provider">
                                                         <span>Service Provided By</span>
-                                                        <img src={`http://localhost:3001/ProfilePic/${data.selectedService.userId.image}`} alt="" />
+                                                        <img src={data.selectedService.userId.image === 'no-image.png' ? noImage : `http://localhost:3001/ProfilePic/${data.selectedService.userId.image}`} alt="Profile Picture" />
                                                     </div>
                                                 </div>
                                             }
@@ -270,7 +270,7 @@ export default function ServiceDetails({ type }) {
                                         </div>
                                         <div className="provider">
                                             <span>Service Provided By</span>
-                                            <img src={`http://localhost:3001/ProfilePic/${data.clientOrderInfo.serviceUserInfo.image}`} alt="" />
+                                            <img src={data.clientOrderInfo.serviceUserInfo.image === 'no-image.png' ? noImage : `http://localhost:3001/ProfilePic/${data.clientOrderInfo.serviceUserInfo.image}`} alt="Profile Picture" />
                                         </div>
                                     </div>
                                     {
